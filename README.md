@@ -29,4 +29,4 @@
 <a href="https://github.com/mkdirlove/AUTO-STEG"><img title="AUTO-STEG" src="https://github-readme-stats.vercel.app/api/pin/?username=mkdirlove&repo=AUTO-STEG&theme=outrun"></a>
 
 <p align="center">
-<a href="https://github.com/renzsecurity/"><img title="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkdirlove&layout=pie&theme=maroongold"></a>
+<a href="https://github.com/renzsecurity/"><img title="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzsecurity&layout=pie&theme=yeblu"></a>
