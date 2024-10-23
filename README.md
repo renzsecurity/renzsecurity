@@ -9,11 +9,11 @@
 <a href="https://www.instagram.com/__renzdev__"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 <p align="center">
-<a href="https://github.com/renzsecurity/awesome-cloud-security"><img title="awesome-cloud-security" src="https://github-readme-stats.vercel.app/api/pin/?username=renzsecurity&repo=awesome-cloud-security&theme=outrun"></a>
+<!-- <a href="https://github.com/renzsecurity/awesome-cloud-security"><img title="awesome-cloud-security" src="https://github-readme-stats.vercel.app/api/pin/?username=renzsecurity&repo=awesome-cloud-security&theme=outrun"></a>
 <a href="https://github.com/renzsecurity/PayloadsAllTheThings"><img title="PayloadsAllTheThings" src="https://github-readme-stats.vercel.app/api/pin/?username=renzsecurity&repo=PayloadsAllTheThings&theme=outrun"></a>
 <a href="https://github.com/renzsecurity/SD-208---Web-Developement-3---Final-Project"><img title="SD-208---Web-Developement-3---Final-Project" src="https://github-readme-stats.vercel.app/api/pin/?username=renzsecurity&repo=SD-208---Web-Developement-3---Final-Project&theme=outrun"></a>
 <a href="https://github.com/renzsecurity/FP00_PN-USC_001"><img title="FP00_PN-USC_001" src="https://github-readme-stats.vercel.app/api/pin/?username=renzsecurity&repo=FP00_PN-USC_001&theme=outrun"></a>
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://github.com/renzsecurity/"><img title="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzsecurity&layout=pie&theme=yeblu"></a>
